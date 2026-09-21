@@ -4,10 +4,12 @@
 
 ### Construo sistemas de IA que agem sozinhos.
 
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=2800&pause=1200&color=F2A33D&background=00000000&center=true&vCenter=true&width=560&lines=Do+c%C3%B3digo+ao+deploy%2C+sozinho.;WhatsApp+%E2%86%92+n8n+%E2%86%92+Claude+Code+%E2%86%92+Vercel.;Agente+de+IA+que+n%C3%A3o+inventa+dado." alt="typing" />
+
 [![Portfólio](https://img.shields.io/badge/Portfólio-12203A?style=for-the-badge&logoColor=F2A33D)](https://joao-portfolio-self.vercel.app)
 [![Currículo](https://img.shields.io/badge/Currículo_PDF-12203A?style=for-the-badge&logoColor=F2A33D)](https://joao-portfolio-self.vercel.app/curriculo.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-12203A?style=for-the-badge&logo=linkedin&logoColor=F2A33D)](https://www.linkedin.com/in/jo%C3%A3o-victor-rodrigues-de-oliveira-a15499409)
-[![Email](https://img.shields.io/badge/Email-12203A?style=for-the-badge&logo=gmail&logoColor=F2A33D)](mailto:joaovictrdo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-12203A?style=for-the-badge&logoColor=F2A33D)](https://www.linkedin.com/in/jo%C3%A3o-victor-rodrigues-de-oliveira-a15499409)
+[![Email](https://img.shields.io/badge/Email-12203A?style=for-the-badge&logoColor=F2A33D)](mailto:joaovictrdo@gmail.com)
 
 </div>
 
@@ -33,20 +35,20 @@ Fundador da Nevion, minha própria operação — é de lá que vem a maior part
 
 <br>
 
-### Stack
-
 <div align="center">
+
+### Stack
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-12203A?style=for-the-badge&logoColor=F2A33D)
 ![Claude API](https://img.shields.io/badge/Claude_API-12203A?style=for-the-badge&logoColor=F2A33D)
-![Next.js](https://img.shields.io/badge/Next.js-12203A?style=for-the-badge&logo=next.js&logoColor=F2A33D)
-![React](https://img.shields.io/badge/React-12203A?style=for-the-badge&logo=react&logoColor=F2A33D)
-![Supabase](https://img.shields.io/badge/Supabase-12203A?style=for-the-badge&logo=supabase&logoColor=F2A33D)
-![n8n](https://img.shields.io/badge/n8n-12203A?style=for-the-badge&logo=n8n&logoColor=F2A33D)
+![Next.js](https://img.shields.io/badge/Next.js-12203A?style=for-the-badge&logoColor=F2A33D)
+![React](https://img.shields.io/badge/React-12203A?style=for-the-badge&logoColor=F2A33D)
+![Supabase](https://img.shields.io/badge/Supabase-12203A?style=for-the-badge&logoColor=F2A33D)
+![n8n](https://img.shields.io/badge/n8n-12203A?style=for-the-badge&logoColor=F2A33D)
 ![Base44](https://img.shields.io/badge/Base44-12203A?style=for-the-badge&logoColor=F2A33D)
 ![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-12203A?style=for-the-badge&logoColor=F2A33D)
-![Vercel](https://img.shields.io/badge/Vercel-12203A?style=for-the-badge&logo=vercel&logoColor=F2A33D)
-![WhatsApp API](https://img.shields.io/badge/Baileys_/_WhatsApp_API-12203A?style=for-the-badge&logo=whatsapp&logoColor=F2A33D)
+![Vercel](https://img.shields.io/badge/Vercel-12203A?style=for-the-badge&logoColor=F2A33D)
+![WhatsApp API](https://img.shields.io/badge/Baileys_/_WhatsApp_API-12203A?style=for-the-badge&logoColor=F2A33D)
 
 </div>
 
